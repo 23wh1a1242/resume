@@ -5,7 +5,7 @@ function App() {
     <div style={styles.resume}>
       <h1 style={styles.name}>Jahnavi Mandapalli</h1>
       <p style={styles.contact}>
-        Hyderabad, Telangana |  jahnavimandapalli98@gmail.com |  9849597696
+         Hyderabad, Telangana |  jahnavimandapalli98@gmail.com |  9849597696
       </p>
 
       <section style={styles.section}>
@@ -85,3 +85,4 @@ const styles = {
 };
 
 export default App;
+
